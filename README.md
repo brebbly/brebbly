@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brebbly
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning FPS game development
-- 💞️ I’m looking to collaborate on controller mapping code
+- 👋 Hi, I’m Giordan Masen
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Backend Development
+- 💞️ I’m looking to collaborate on open end projects
 - 📫 How to reach me: giordan.masen@gmail.com
 
 <!---
